@@ -15,9 +15,6 @@ body {
     margin: 0 auto;
 }
 /* navbar */
-.logo {
-    width: 60px;
-}
 header {
     display: flex;
     justify-content: space-between;
