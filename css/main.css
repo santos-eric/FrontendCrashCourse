@@ -8,6 +8,10 @@ body {
     margin: 0;
     font-family: 'Poppins';
     margin-bottom: 2em;
+    background: url(/images/beachBackground.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
 }
 /* average width of desktop, margin 0 auto centers entire page */
 .wrapper {
